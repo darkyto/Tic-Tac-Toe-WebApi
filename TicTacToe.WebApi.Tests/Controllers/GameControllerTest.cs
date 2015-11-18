@@ -15,14 +15,14 @@
         [TestMethod]
         public void WhenTurnIsXChangeStateToY()
         {
-            var controller = new GamesController()
-            {
+            //var controller = new GamesController()
+            //{
 
-            };
-            controller.Play(new PlayRequestDataModel()
-            {
+            //};
+            //controller.Play(new PlayRequestDataModel()
+            //{
 
-            });
+            //});
         }
     }
 }
