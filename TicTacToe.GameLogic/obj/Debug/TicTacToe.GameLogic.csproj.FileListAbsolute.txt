@@ -1,0 +1,5 @@
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.GameLogic\bin\Debug\TicTacToe.GameLogic.dll
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.GameLogic\bin\Debug\TicTacToe.GameLogic.pdb
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.GameLogic\obj\Debug\TicTacToe.GameLogic.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.GameLogic\obj\Debug\TicTacToe.GameLogic.dll
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.GameLogic\obj\Debug\TicTacToe.GameLogic.pdb

@@ -1,0 +1,16 @@
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Data.dll.config
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Data.dll
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Data.pdb
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\EntityFramework.dll
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Models.dll
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\TicTacToe.Models.pdb
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\EntityFramework.xml
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\obj\Debug\TicTacToe.Data.csprojResolveAssemblyReference.cache
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\obj\Debug\TicTacToe.Data.dll
+D:\Personal\TELERIK\Web-Services\TicTacToe\TicTacToe.Data\obj\Debug\TicTacToe.Data.pdb
